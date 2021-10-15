@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.container {
+  max-width: 1245px;
+  padding:  0 19px;
+  margin: 0 auto;
+}
+
